@@ -1,0 +1,8 @@
+@software{GRTOP_instances2022,
+  author = {Coutinho, Walton and Fliege, Jörg and Battarra, Maria},
+  month = {September},
+  title = {Glider Routing and Trajectory Optimisation Instances},
+  url = {https://github.com/waltonpcoutinho/GRTOP_instances},
+  version = {1.0},
+  year = {2022}
+}
